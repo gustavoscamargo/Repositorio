@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' , sans-serif;
+}
+.logo-fixo{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    z-index: 1;
+    top: 0px;
+}
+.logo-fixo img{
+    width: 80px;
+    height: 80px;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+.logo-fixo h1{
+    font-size: 32px;
+    color: #000000;
+    position: absolute;
+    top: 0px;
+    left: 330px;
+}
+.logo-fixo p{
+    font-size: 16px;
+    color: #2f86d6;
+    position: absolute;
+    top:50px;
+    left: 330px;
+}
+
+.logo-fixo .link-1{
+    display: inline;
+    position: absolute;
+    top: 40px;
+    right: 600px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.logo-fixo .link-2{
+    position: absolute;
+    top: 40px;
+    right: 500px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.logo-fixo .link-3{
+    position: absolute;
+    top: 40px;
+    right: 400px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.logo-fixo .link-4{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.logo-fixo a{
+    color: #233032;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.banner1{
+    background-color: #2f86d6;
+    width: 100%;
+    height: 700px;
+   
+}
+
+.banner1 img{
+    position: absolute;
+    top: 150px;
+   right: 150px;
+}
+.linha-1{
+    position: relative;
+    top: 240px;
+    font-size: 18px;
+    color: #fff;
+    left: 170px;   
+    padding: 20px 15px;
+}
+.banner1 h2{
+    position: relative;
+    top: 240px;
+    color: #fff;
+    left: 180px;
+}
+.linha-2{
+    position: relative;
+    color: #fff;
+    
+    top: 260px;
+    left: 180px;
+}
+.anuncio-1{
+    background-color: #233032;
+    color: #fff;
+}
+
+.anuncio-1 h2{
+    font-size: 22px;    
+    position: relative;
+    top: 10px;
+    left: 190px;
+}
+.anuncio-1 p{
+    font-size: 16px;
+    position: relative;
+    top:10px ;
+    left: 190px;
+}
+
+.anuncio-1 a{
+    position: relative;
+    text-decoration: none;
+    top: -30px;  
+    left: 950px;
+    color: #fff;
+    border: #2f86d6 10px solid;
+    background-color: #2f86d6;
+    border-radius: 10px;
+    padding: 1px 20px;
+}
+
+.anuncio-1 img{
+    position: relative;
+    top: -26px;
+    left: 750px;
+}
+.secao-informacao{
+    width: 100%;
+    height: 600px;
+}
+
+.secao-informacao h2{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+.secao-informacao span{
+    color: #2f86d6;
+}
+.secao-informacao img {
+   width: 100px;
+   
+}
+.secao-informacao table{
+    position: relative;
+    top: 150px;
+   padding: 5px;
+   margin: 5px 30px;
+   font-size: 14px;
+}
+.tabela-1 table{
+   
+    border: 15px solid #fff ;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 20px 15px #2f86d6;
+    margin-bottom: 30px;
+    width: 1100px;
+}
+.tabela-1 img{
+    width: 150px;
+    height: 150px;
+}
+.tabela-1 h2{
+    position: relative;
+    top: 80px;
+    left: 280px;
+
+}
+.tabela-1 span{
+    color: #2f86d6;
+}
+.tabela-1{
+    background-color: #f6f6f6;
+    height: 650px;
+}
+.tabela-1 .impar{
+    background-color: #fff;
+}
+.tabela-1 .par{
+    background-color: #f6f6f6;
+}
+.anuncio-2{
+    width: 100%;
+    height: 100px;
+    background-color: #2f86d6;
+}
+.anuncio-2 a{
+    position: relative;
+    text-decoration: none;
+    top: -30px;  
+    left: 950px;
+    color: #fff;
+    border: #233032 10px solid;
+    background-color: #233032;
+    border-radius: 10px;
+    padding: 1px 20px;
+}
+.anuncio-2 img{
+    position: relative;
+    top: -26px;
+    left: 750px;
+}
+.anuncio-2 h2{
+    font-size: 22px;    
+    position: relative;
+    top: 15px;
+    left: 190px;
+    color: #fff;
+}
+.Rodape img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 15px;
+    left: -100px;
+}
+.Rodape{
+    text-align: center;
+    padding: 30px;
+}
+.Rodape h2{
+    position: relative;
+    top: -70px;
+    left: 10px;
+}
+.Rodape span{
+    color: #2f86d6;
+    position: relative;
+    top: -70px;
+    left: 50px;
+}
+.nome{
+    color: #2f86d6;
+}
+.Rodape p{
+    margin: 10px;
+}
